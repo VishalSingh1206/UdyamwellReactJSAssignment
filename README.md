@@ -23,7 +23,7 @@ You will be provided with the UI design for the UdyamSathi dashboard. The design
    - Implement additional features or enhancements that showcase your creativity and skills.
    - Optimize the performance of the dashboard components.
 
-Provided UI:
+Provided UI: (https://github.com/VishalSingh1206/UdyamwellReactJSAssignment/blob/main/Assignment.jpg)
 
 Use Charts and Tables according to your own and Integrate dummy data (or placeholder data) to populate the charts and tables
 
