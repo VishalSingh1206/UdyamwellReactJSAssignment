@@ -48,7 +48,7 @@ Your submission will be evaluated based on the following criteria:
    - Implementation of additional features beyond the basic requirements.
 
 Submission Instructions:
-- Fork this repository (Repository Link) and create your solution.
+- Fork this repository and create your solution.
 - Provide clear instructions on how to run your application.
 - Submit a pull request with your solution within the 72-hour timeframe.
 We look forward to seeing your creativity in implementing the UdyamSathi dashboard! If you have any questions, feel free to reach out. Good luck!
