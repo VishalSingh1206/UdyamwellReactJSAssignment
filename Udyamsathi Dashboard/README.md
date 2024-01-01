@@ -20,13 +20,18 @@ npm create vite@latest
 ```
 
 ```bash
-cd your-project
+cd "Udyamsathi Dashboard"
 npm install
 ```
 
 ```bash
 
 npm start
+```
+
+```bash
+
+npm run dev
 ```
 
 ### Prerequisites
