@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@iconify/react": "^4.1.1"
+  },
+  "dependencies": {
+    "@google-cloud/translate": "^8.0.2",
+    "chart.js": "^4.4.1",
+    "d3": "^7.8.5",
+    "react-chartjs-2": "^5.2.0",
+    "recharts": "^2.10.3"
+  }
+}

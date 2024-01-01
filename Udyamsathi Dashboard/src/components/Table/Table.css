@@ -1,0 +1,38 @@
+/* Table.css */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: transparent;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+th:last-child,
+td:last-child {
+  min-width: 200px; /* Set your desired minimum width for the first column */
+}
+
+th {
+  font-weight: bold;
+  background-color: transparent;
+  color: var(--black-color);
+  white-space: nowrap; /* Prevent title text from wrapping */
+  overflow: hidden;
+  text-overflow: ellipsis; /* Display ellipsis (...) for overflowing text */
+}
+
+tbody tr:nth-child(even) {
+  background-color: transparent;
+}
+
+tbody tr:hover {
+  background-color: #e0e0e0;
+}

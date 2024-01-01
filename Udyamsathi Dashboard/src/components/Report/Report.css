@@ -1,0 +1,62 @@
+/* Report.css */
+
+.report-container {
+  border-radius: 10px;
+  text-align: left;
+  width: 1160px;
+  margin: auto;
+}
+
+h1 {
+  color: black; /* Set your desired heading color */
+  font-size: 55px;
+  font-weight: 700;
+}
+
+.subheading {
+  font-size: 18px;
+  margin-top: -40px;
+  font-weight: 500;
+}
+
+.activities-container {
+  margin-top: 10px;
+  background-color: var(--bg-color);
+  padding: 10px 30px 20px 30px;
+  border-radius: 22px;
+}
+.chart {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+.overall {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+span {
+  color: var(--dark-green);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+th {
+  background-color: #3498db; /* Set your desired header background color */
+  color: #fff; /* Set your desired header text color */
+  max-width: 200px; /* Set your desired max width for the title */
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f0f0f0; /* Set your desired even row background color */
+}

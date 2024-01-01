@@ -1,0 +1,42 @@
+/* UserNotification.css */
+@import "../Table/Table.css";
+.user-table {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  width: 605px;
+  position: relative;
+}
+.user {
+  width: 605px;
+}
+.user p {
+  background-color: transparent;
+  color: #000000;
+  padding: none;
+  border-radius: 8px;
+  margin-bottom: 5px;
+  font-weight: 700;
+  font-size: 53px;
+}
+
+.table-container {
+  width: 108%;
+  background-color: var(--bg-color);
+  border-radius: 35px;
+  padding: 0 30px 30px;
+}
+span {
+  color: var(--dark-green);
+}
+h3 {
+  text-align: center;
+}
+.user-noti {
+  position: absolute;
+
+  left: 350px;
+  /* bottom: 14px; */
+  top: 230px;
+}

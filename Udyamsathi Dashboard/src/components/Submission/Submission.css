@@ -1,0 +1,51 @@
+/* Submission.css */
+
+.submission-container {
+  position: absolute;
+
+  left: 55%;
+  top: 500px;
+}
+.submission {
+  margin: 20px;
+  width: 456px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.text-input,
+.file-input {
+  width: 100%;
+
+  padding: 10px 50px;
+  margin-bottom: 15px;
+  border-radius: 22px;
+  background-color: var(--bg-color);
+  height: 45px;
+  border: none;
+}
+.text-input:focus {
+  outline: none;
+}
+
+.submit-button {
+  background-color: var(--dark-green);
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 22px;
+  cursor: pointer;
+  width: 40%;
+  transition: box-shadow 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+.submit-button:hover {
+  background-color: var(
+    --dark-green
+  ); /* Set your desired hover background color */
+  color: white; /* Set your desired hover text color */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Add more styling as needed */
