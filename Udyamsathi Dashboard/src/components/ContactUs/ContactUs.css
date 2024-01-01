@@ -1,0 +1,28 @@
+/* ContactUs.css */
+.contact-us {
+  width: 260px;
+}
+.contact-us h3 {
+  color: var(--dark-green);
+  text-align: left;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.contact-details p {
+  font-size: 14px;
+  margin: 5px 0;
+  color: #888888;
+  line-height: 25px;
+  font-weight: 500;
+}
+
+.contact-details a {
+  color: #3498db;
+  text-decoration: none;
+}
+span {
+  color: #294773;
+  font-weight: 700;
+}

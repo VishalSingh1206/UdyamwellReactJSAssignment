@@ -1,0 +1,35 @@
+/* Copyright.css */
+
+.copyright-container {
+  background-color: var(--dark-green); /* Set your desired background color */
+  color: #fff; /* Set your desired text color */
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.left-content {
+  text-align: left;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.right-content {
+  text-align: right;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.link {
+  color: #fff;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.separator {
+  margin: 0 5px;
+}

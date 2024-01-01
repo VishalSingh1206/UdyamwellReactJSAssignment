@@ -1,0 +1,42 @@
+/* Navbar.css */
+
+.navbar {
+  background-color: transparent; /* Set your desired background color */
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 30px;
+}
+
+li {
+  margin-right: 15px;
+}
+
+li:last-child {
+  margin-right: 0;
+}
+
+li a {
+  text-decoration: none;
+  color: #000000; /* Set your desired text color */
+  font-weight: 600;
+  font-size: 16px;
+  transition: color 0.3s ease;
+}
+
+li a:hover {
+  color: var(--dark-green); /* Set your desired hover color */
+}
+
+/* Add more styling as needed */

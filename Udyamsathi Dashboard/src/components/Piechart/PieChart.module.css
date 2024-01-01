@@ -1,0 +1,16 @@
+.container .slice {
+  transition-duration: 0.3s;
+  transition-property: fill, opacity;
+  fill: saturate(100%);
+  opacity: 1;
+  cursor: pointer;
+}
+
+.container .slice:hover {
+  fill: rgba(0, 0, 0, 0.2);
+  opacity: 1;
+}
+
+.container .slice.fade {
+  opacity: 0.7;
+}

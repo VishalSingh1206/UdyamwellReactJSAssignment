@@ -1,0 +1,23 @@
+header {
+  min-height: 100vh;
+  background: url("../../assets/nav-bg.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.quote {
+  width: 100%;
+  line-height: 30px;
+  font-family: "Alegreya", serif;
+  font-weight: 600;
+}
+header .wrapper {
+  position: relative;
+  height: 100vh;
+}
+header .header-content {
+  position: absolute;
+  right: 0;
+  left: 815px;
+  top: 290px;
+  bottom: 0;
+}

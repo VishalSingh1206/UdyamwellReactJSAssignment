@@ -1,0 +1,62 @@
+/* Rank.css */
+
+.rank-container {
+  /* Set your desired background color */
+
+  border-radius: 10px;
+  text-align: left;
+  width: 1160px;
+  margin: auto;
+  height: 100vh;
+}
+
+h1 {
+  color: var(--black-color); /* Set your desired heading color */
+  font-size: 55px;
+  font-weight: 700;
+}
+h1 span {
+  color: var(--dark-green); /* Set your desired heading color */
+  font-size: 55px;
+  font-weight: 700;
+}
+
+.subheading {
+  font-size: 18px;
+  margin-top: -40px;
+  font-weight: 500;
+}
+
+.leaderboard-container {
+  margin-top: 10px;
+  background-color: var(--bg-color);
+  padding: 10px 30px 20px 30px;
+  border-radius: 22px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 5px;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+th {
+  background-color: #3498db; /* Set your desired header background color */
+  color: #fff; /* Set your desired header text color */
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f0f0f0; /* Set your desired even row background color */
+}
+
+.highlight {
+  background-color: var(--dark-green); /* Set your desired highlight color */
+  font-weight: bold;
+  color: #fff;
+}
