@@ -1,9 +1,13 @@
 # UdyamwellReactJSAssignment
+
+#To Run the React App Read:https://github.com/KhushiSavarn/UdyamwellReactJSAssignment/blob/main/Udyamsathi%20Dashboard/README.md
+
 Welcome to UdyamWell! We're excited to see your passion for web development and interest in joining our team. As part of the hiring process, we would like you to complete the following assignment within 72 hours.
 Assignment: Udyamsathi Dashboard
 Objective: Create a Student Dashboard using ReactJS.
 Requirements:
 You will be provided with the UI design for the UdyamSathi dashboard. The design includes various components such as charts, tables, and widgets. Your task is to implement the provided UI using ReactJS.
+
 1. Component Implementation:
    - Implement the dashboard components based on the provided UI design.
    - Ensure that the components are responsive and adapt well to different screen sizes.
@@ -29,6 +33,7 @@ Use Charts and Tables according to your own and Integrate dummy data (or placeho
 
 Judging Matrix:
 Your submission will be evaluated based on the following criteria:
+
 1. Component Implementation (30 points):
    - Accurate implementation of the provided UI components.
    - Responsive design for different devices.
@@ -48,11 +53,11 @@ Your submission will be evaluated based on the following criteria:
    - Implementation of additional features beyond the basic requirements.
 
 Submission Instructions:
+
 - Fork this repository and create your solution.
 - Provide clear instructions on how to run your application.
 - Submit a pull request with your solution within the 72-hour timeframe.
-We look forward to seeing your creativity in implementing the UdyamSathi dashboard! If you have any questions, feel free to reach out. Good luck!
+  We look forward to seeing your creativity in implementing the UdyamSathi dashboard! If you have any questions, feel free to reach out. Good luck!
 
 Best regards,
 Team UdyamWell
-
